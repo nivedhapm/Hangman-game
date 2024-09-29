@@ -1,4 +1,4 @@
-# Hangman Challenge
+# Project: Hangman Challenge
 
 ## Description
 The **Hangman Challenge** is a classic word-guessing game implemented in Python. The player must guess a hidden word one letter at a time, with the objective of revealing the entire word before making too many incorrect guesses. The game offers feedback on the current state of the word and tracks incorrect guesses. The player wins by guessing the word correctly or loses after exceeding the allowed incorrect guesses. This project can be extended with a graphical user interface (GUI) using libraries like Tkinter or PyQt.
